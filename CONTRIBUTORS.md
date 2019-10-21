@@ -1,10 +1,10 @@
-#### Name: [RAJI ABDULGAFAR](https://github.com/abdulgaphy)
+#### Name: [BELLO RAHEENAH](https://github.com/menorah-git)
 - Place: Minna, Niger State, Nigeria
-- Bio: I am a GEEK
-- Department: Cyber Security Science
-- Interest: Football, travelling and Nature.
-- GitHub: [abdulgaphy](https://github.com/abdulgaphy)
-- Twitter: [@mrgaphy](https://twitter.com/mrgaphy)
+- Bio: i am an enthusiastic learner
+- Department: Computer Science
+- Interest: Music, Reading, Gaming, Sleeping
+- GitHub: [menorah-git](https://github.com/menorah-git)
+- Twitter: null
 
 #### Name: [Abdulqudus Abubakre](https://github.com/Abdulqudus001)
 - Place: Minna, Niger State, Nigeria
